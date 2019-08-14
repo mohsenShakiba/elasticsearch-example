@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElasticSearchExample", "ElasticSearchExample\ElasticSearchExample.csproj", "{AFD66872-1C22-4890-AF5E-FEF183C38996}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFD66872-1C22-4890-AF5E-FEF183C38996}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFD66872-1C22-4890-AF5E-FEF183C38996}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFD66872-1C22-4890-AF5E-FEF183C38996}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFD66872-1C22-4890-AF5E-FEF183C38996}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
