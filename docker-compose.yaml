@@ -16,11 +16,11 @@ services:
     networks:
       - esnet.network
 
-  challenge:
+  api:
     build:
       context: .
       dockerfile: ElasticSearchExample/Dockerfile
-    container_name: elsticApi
+    container_name: api
     restart: always
     ports:
       - "88:80"
