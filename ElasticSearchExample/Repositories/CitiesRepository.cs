@@ -42,6 +42,7 @@ namespace ElasticSearchExample.Repositories
 
         public async Task InsertAllAsync(string staticFilePath)
         {
+            Console.WriteLine($"adding all cities");
             var mapper = SeparatedValueTypeMapper.Define<City>();
             mapper.Property(c => c.Name).ColumnName("name");
             mapper.Property(c => c.StateName).ColumnName("state_name");
