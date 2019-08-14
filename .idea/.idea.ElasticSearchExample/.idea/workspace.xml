@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="591c6e02-b0fc-4a61-b9ba-2f0c71ee296a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ElasticSearchExample.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ElasticSearchExample/Application/Abstractions/ICitiesRepository.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ElasticSearchExample/Application/Models/City.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ElasticSearchExample/Controllers/CitiesController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ElasticSearchExample/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ElasticSearchExample/ElasticSearchExample.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ElasticSearchExample/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ElasticSearchExample/Properties/launchSettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ElasticSearchExample/Repositories/CitiesRepository.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ElasticSearchExample/Startup.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ElasticSearchExample/Static/cities.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ElasticSearchExample/appsettings.Development.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ElasticSearchExample/appsettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker-compose.yaml" afterDir="false" />
-    </list>
+    <list default="true" id="591c6e02-b0fc-4a61-b9ba-2f0c71ee296a" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,8 +65,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docker-compose.yaml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="702">
-              <caret line="27" column="10" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
+            <state relative-caret-position="116">
+              <caret line="18" column="11" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -399,8 +384,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/docker-compose.yaml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
-          <caret line="27" column="10" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
+        <state relative-caret-position="116">
+          <caret line="18" column="11" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="11" />
         </state>
       </provider>
     </entry>

@@ -18,7 +18,7 @@ namespace ElasticSearchExample.Repositories
         
         public CitiesRepository()
         {
-            client = new ElasticClient(new Uri("es"));
+            client = new ElasticClient(new Uri("http://es:9200"));
         }
 
         public async Task<IEnumerable<City>> FindAsync(string term)
