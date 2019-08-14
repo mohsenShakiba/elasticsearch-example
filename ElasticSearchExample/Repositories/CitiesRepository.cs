@@ -49,6 +49,7 @@ namespace ElasticSearchExample.Repositories
             {
                 var options = new SeparatedValueOptions() { IsFirstRecordSchema = true };
                 var cites = mapper.Read(reader, options).ToList();
+                Console.WriteLine($"added {cites.Count} documents");
                 await client.IndexManyAsync(cites, IndexName);
             }
         }
