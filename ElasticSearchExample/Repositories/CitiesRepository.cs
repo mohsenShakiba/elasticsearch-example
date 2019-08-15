@@ -13,7 +13,7 @@ namespace ElasticSearchExample.Repositories
 {
     public class CitiesRepository: ICitiesRepository
     {
-        private const string IndexName = "Cities";
+        private const string IndexName = "cities";
         private readonly ElasticClient client;
         
         public CitiesRepository()
