@@ -21,5 +21,12 @@ namespace ElasticSearchExample.Controllers
         {
             return await citiesRepository.FindAsync(query);
         }
+        
+        [HttpPost("insert/all/{path}")]
+        public async Task<bool> InsertAll([FromRoute] string path)
+        {
+            await citiesRepository.InsertAllAsync(path);
+            return true;
+        }
     }
 }

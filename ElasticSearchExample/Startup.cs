@@ -25,13 +25,6 @@ namespace ElasticSearchExample
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
         {
             app.UseMvc();
-
-            using (var scope = app.ApplicationServices.CreateScope())
-            {
-                var repository = scope.ServiceProvider.GetService<ICitiesRepository>();
-                repository.InsertAllAsync(@"/app/Static/cities.csv");
-            }
-            
         }
     }
 }
