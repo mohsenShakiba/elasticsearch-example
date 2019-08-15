@@ -50,8 +50,8 @@ namespace ElasticSearchExample.Repositories
             {
                 var options = new SeparatedValueOptions() { IsFirstRecordSchema = true };
                 var cites = mapper.Read(reader, options).ToList();
-                await client.IndexManyAsync(cites, IndexName);
-                Console.WriteLine($"added {cites.Count} documents");
+                var result = await client.IndexManyAsync(cites, IndexName);
+                Console.WriteLine($"added {cites.Count} documents with {result.IsValid}");
             }
         }
     }

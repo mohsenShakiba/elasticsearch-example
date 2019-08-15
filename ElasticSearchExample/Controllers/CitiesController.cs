@@ -23,9 +23,9 @@ namespace ElasticSearchExample.Controllers
         }
         
         [HttpPost("insert/all/{path}")]
-        public async Task<bool> InsertAll([FromRoute] string path)
+        public async Task<bool> InsertAll()
         {
-            await citiesRepository.InsertAllAsync(path);
+            await citiesRepository.InsertAllAsync(@"/app/Static/cities.csv");
             return true;
         }
     }
