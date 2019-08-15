@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="591c6e02-b0fc-4a61-b9ba-2f0c71ee296a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/ElasticSearchExample/Repositories/CitiesRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ElasticSearchExample/Repositories/CitiesRepository.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docker-compose.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yaml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,11 +58,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docker-compose.yaml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="519">
-              <caret line="21" column="10" lean-forward="true" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+            <state relative-caret-position="502">
+              <caret line="40" column="21" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -83,19 +84,19 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ElasticSearchExample/Repositories/CitiesRepository.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="18" column="28" lean-forward="true" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+            <state relative-caret-position="286">
+              <caret line="20" column="68" selection-start-line="20" selection-start-column="68" selection-end-line="20" selection-end-column="68" />
               <folding>
-                <marker date="1565811160843" expanded="false" signature="6:271" ph="..." />
-                <marker date="1565811160843" expanded="true" signature="316:1985" ph="{...}" />
-                <marker date="1565811160843" expanded="true" signature="371:1983" ph="{...}" />
-                <marker date="1565811160843" expanded="true" signature="518:605" ph="{...}" />
-                <marker date="1565811160843" expanded="true" signature="674:1242" ph="{...}" />
-                <marker date="1565811160843" expanded="true" signature="1307:1977" ph="{...}" />
-                <marker date="1565811160843" expanded="true" signature="1650:1967" ph="{...}" />
+                <marker date="1565849864653" expanded="false" signature="6:271" ph="..." />
+                <marker date="1565849864653" expanded="true" signature="316:1996" ph="{...}" />
+                <marker date="1565849864653" expanded="true" signature="371:1994" ph="{...}" />
+                <marker date="1565849864653" expanded="true" signature="518:616" ph="{...}" />
+                <marker date="1565849864653" expanded="true" signature="685:1253" ph="{...}" />
+                <marker date="1565849864653" expanded="true" signature="1318:1988" ph="{...}" />
+                <marker date="1565849864653" expanded="true" signature="1661:1978" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -151,11 +152,11 @@
         <option value="$PROJECT_DIR$/ElasticSearchExample/Dockerfile" />
         <option value="$PROJECT_DIR$/ElasticSearchExample/Program.cs" />
         <option value="$PROJECT_DIR$/ElasticSearchExample/Static/cities.csv" />
-        <option value="$PROJECT_DIR$/ElasticSearchExample/Repositories/CitiesRepository.cs" />
         <option value="$PROJECT_DIR$/ElasticSearchExample/Controllers/CitiesController.cs" />
         <option value="$PROJECT_DIR$/ElasticSearchExample/Application/Models/City.cs" />
         <option value="$PROJECT_DIR$/ElasticSearchExample/Startup.cs" />
         <option value="$PROJECT_DIR$/docker-compose.yaml" />
+        <option value="$PROJECT_DIR$/ElasticSearchExample/Repositories/CitiesRepository.cs" />
       </list>
     </option>
   </component>
@@ -194,6 +195,17 @@
             <path>
               <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
               <item name="ElasticSearchExample" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="ElasticSearchExample" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="ElasticSearchExample" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="ElasticSearchExample" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="ElasticSearchExample" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="Repositories" type="34e6ba20:FileSystemExplorerNode" />
             </path>
           </expand>
           <select />
@@ -315,22 +327,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ElasticSearchExample/Repositories/CitiesRepository.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="18" column="28" lean-forward="true" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
-          <folding>
-            <marker date="1565811160843" expanded="false" signature="6:271" ph="..." />
-            <marker date="1565811160843" expanded="true" signature="316:1985" ph="{...}" />
-            <marker date="1565811160843" expanded="true" signature="371:1983" ph="{...}" />
-            <marker date="1565811160843" expanded="true" signature="518:605" ph="{...}" />
-            <marker date="1565811160843" expanded="true" signature="674:1242" ph="{...}" />
-            <marker date="1565811160843" expanded="true" signature="1307:1977" ph="{...}" />
-            <marker date="1565811160843" expanded="true" signature="1650:1967" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ElasticSearchExample.sln">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -397,8 +393,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/docker-compose.yaml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="519">
-          <caret line="21" column="10" lean-forward="true" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+        <state relative-caret-position="502">
+          <caret line="40" column="21" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ElasticSearchExample/Repositories/CitiesRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="20" column="68" selection-start-line="20" selection-start-column="68" selection-end-line="20" selection-end-column="68" />
+          <folding>
+            <marker date="1565849864653" expanded="false" signature="6:271" ph="..." />
+            <marker date="1565849864653" expanded="true" signature="316:1996" ph="{...}" />
+            <marker date="1565849864653" expanded="true" signature="371:1994" ph="{...}" />
+            <marker date="1565849864653" expanded="true" signature="518:616" ph="{...}" />
+            <marker date="1565849864653" expanded="true" signature="685:1253" ph="{...}" />
+            <marker date="1565849864653" expanded="true" signature="1318:1988" ph="{...}" />
+            <marker date="1565849864653" expanded="true" signature="1661:1978" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
