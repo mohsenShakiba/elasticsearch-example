@@ -6,6 +6,10 @@ namespace ElasticSearchExample.Application.Models
         public string StateName { get; set; }
         public string Name { get; set; }
 
+        public City()
+        {
+        }
+
         public City(string stateName, string name)
         {
             Id = (stateName + name).GetHashCode();
