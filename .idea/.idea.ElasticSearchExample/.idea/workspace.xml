@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="591c6e02-b0fc-4a61-b9ba-2f0c71ee296a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/ElasticSearchExample/Repositories/CitiesRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ElasticSearchExample/Repositories/CitiesRepository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ElasticSearchExample/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ElasticSearchExample/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yaml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,11 +12,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ElasticSearchExample/Startup.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="274">
+            <state relative-caret-position="494">
               <caret line="31" column="36" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
               <folding>
                 <marker date="1565810197644" expanded="false" signature="6:343" ph="..." />
@@ -33,7 +34,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ElasticSearchExample/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
+            <state relative-caret-position="260">
               <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
               <folding>
                 <marker date="1565809955293" expanded="false" signature="6:255" ph="..." />
@@ -58,7 +59,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ElasticSearchExample/ElasticSearchExample.csproj">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
+            <state relative-caret-position="390">
               <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
             </state>
           </provider>
@@ -67,17 +68,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ElasticSearchExample/Static/cities.csv">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="15" selection-start-column="15" selection-end-column="15" />
+            <state relative-caret-position="130">
+              <caret line="5" column="6" selection-start-line="5" selection-end-line="5" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docker-compose.yaml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="542">
-              <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+            <state relative-caret-position="624">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
@@ -85,10 +86,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ElasticSearchExample/Controllers/CitiesController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="21" column="59" selection-start-line="21" selection-start-column="59" selection-end-line="21" selection-end-column="59" />
+            <state relative-caret-position="364">
+              <caret line="21" column="46" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
               <folding>
-                <marker date="1565810197633" expanded="true" signature="6:195" ph="..." />
+                <marker date="1565810197633" expanded="false" signature="6:195" ph="..." />
                 <marker date="1565810197633" expanded="true" signature="239:729" ph="{...}" />
                 <marker date="1565810197633" expanded="true" signature="323:727" ph="{...}" />
                 <marker date="1565810197633" expanded="true" signature="459:533" ph="{...}" />
@@ -98,19 +99,19 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ElasticSearchExample/Repositories/CitiesRepository.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="9">
-              <caret line="42" column="36" lean-forward="true" selection-start-line="42" selection-start-column="36" selection-end-line="42" selection-end-column="36" />
+            <state relative-caret-position="234">
+              <caret line="18" column="28" lean-forward="true" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
               <folding>
-                <marker date="1565811017747" expanded="true" signature="6:271" ph="..." />
-                <marker date="1565811017747" expanded="true" signature="316:1985" ph="{...}" />
-                <marker date="1565811017747" expanded="true" signature="371:1983" ph="{...}" />
-                <marker date="1565811017747" expanded="true" signature="518:605" ph="{...}" />
-                <marker date="1565811017747" expanded="true" signature="674:1242" ph="{...}" />
-                <marker date="1565811017747" expanded="true" signature="1307:1977" ph="{...}" />
-                <marker date="1565811017747" expanded="true" signature="1650:1967" ph="{...}" />
+                <marker date="1565811160843" expanded="false" signature="6:271" ph="..." />
+                <marker date="1565811160843" expanded="true" signature="316:1985" ph="{...}" />
+                <marker date="1565811160843" expanded="true" signature="371:1983" ph="{...}" />
+                <marker date="1565811160843" expanded="true" signature="518:605" ph="{...}" />
+                <marker date="1565811160843" expanded="true" signature="674:1242" ph="{...}" />
+                <marker date="1565811160843" expanded="true" signature="1307:1977" ph="{...}" />
+                <marker date="1565811160843" expanded="true" signature="1650:1967" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -119,10 +120,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ElasticSearchExample/Application/Abstractions/ICitiesRepository.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+            <state relative-caret-position="104">
+              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
               <folding>
-                <marker date="1565810152917" expanded="true" signature="6:110" ph="..." />
+                <marker date="1565810152917" expanded="false" signature="6:110" ph="..." />
                 <marker date="1565810152917" expanded="true" signature="167:330" ph="{...}" />
                 <marker date="1565810152917" expanded="true" signature="208:328" ph="{...}" />
               </folding>
@@ -154,20 +155,21 @@
         <option value="$PROJECT_DIR$/ElasticSearchExample/Program.cs" />
         <option value="$PROJECT_DIR$/ElasticSearchExample/Controllers/CitiesController.cs" />
         <option value="$PROJECT_DIR$/ElasticSearchExample/Startup.cs" />
-        <option value="$PROJECT_DIR$/docker-compose.yaml" />
         <option value="$PROJECT_DIR$/ElasticSearchExample/Static/cities.csv" />
         <option value="$PROJECT_DIR$/ElasticSearchExample/Repositories/CitiesRepository.cs" />
+        <option value="$PROJECT_DIR$/docker-compose.yaml" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1280" />
-    <option name="height" value="722" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1280" />
+    <option name="y" value="-162" />
+    <option name="width" value="1920" />
+    <option name="height" value="1057" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator currentView="SolutionExplorer" proportions="" version="1">
+    <navigator currentView="FileSystemExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -178,29 +180,11 @@
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="ElasticSearchExample" type="24d0babc:SolutionExplorerModelNode" />
             </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="ElasticSearchExample" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="ElasticSearchExample" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="ElasticSearchExample" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="ElasticSearchExample" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Repositories" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="ElasticSearchExample" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="ElasticSearchExample" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Static" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
           </expand>
           <select />
         </subPane>
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="AssemblyExplorer" />
       <pane id="FileSystemExplorer">
         <subPane>
           <expand>
@@ -212,6 +196,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AssemblyExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -254,20 +239,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="722" extended-state="0" />
+    <frame x="1280" y="-162" width="1920" height="1057" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16719915" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="NuGet" visible="true" weight="0.04761905" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Unit Tests" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -275,12 +254,18 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Errors In Solution" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.04761905" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
     </layout>
   </component>
   <component name="XDebuggerManager">
@@ -315,75 +300,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ElasticSearchExample/Controllers/CitiesController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="21" column="59" selection-start-line="21" selection-start-column="59" selection-end-line="21" selection-end-column="59" />
-          <folding>
-            <marker date="1565810197633" expanded="true" signature="6:195" ph="..." />
-            <marker date="1565810197633" expanded="true" signature="239:729" ph="{...}" />
-            <marker date="1565810197633" expanded="true" signature="323:727" ph="{...}" />
-            <marker date="1565810197633" expanded="true" signature="459:533" ph="{...}" />
-            <marker date="1565810197633" expanded="true" signature="641:721" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ElasticSearchExample/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
-          <folding>
-            <marker date="1565809955293" expanded="false" signature="6:255" ph="..." />
-            <marker date="1565809955293" expanded="true" signature="287:654" ph="{...}" />
-            <marker date="1565809955293" expanded="true" signature="314:652" ph="{...}" />
-            <marker date="1565809955293" expanded="true" signature="367:441" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ElasticSearchExample/Application/Abstractions/ICitiesRepository.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-          <folding>
-            <marker date="1565810152917" expanded="true" signature="6:110" ph="..." />
-            <marker date="1565810152917" expanded="true" signature="167:330" ph="{...}" />
-            <marker date="1565810152917" expanded="true" signature="208:328" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ElasticSearchExample.sln.DotSettings.user">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ElasticSearchExample.sln">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docker-compose.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="542">
-          <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ElasticSearchExample/ElasticSearchExample.csproj">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ElasticSearchExample/Static/cities.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="15" selection-start-column="15" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ElasticSearchExample/Startup.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
+        <state relative-caret-position="494">
           <caret line="31" column="36" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
           <folding>
             <marker date="1565810197644" expanded="false" signature="6:343" ph="..." />
@@ -397,19 +316,85 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ElasticSearchExample/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+          <folding>
+            <marker date="1565809955293" expanded="false" signature="6:255" ph="..." />
+            <marker date="1565809955293" expanded="true" signature="287:654" ph="{...}" />
+            <marker date="1565809955293" expanded="true" signature="314:652" ph="{...}" />
+            <marker date="1565809955293" expanded="true" signature="367:441" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ElasticSearchExample.sln.DotSettings.user">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ElasticSearchExample.sln">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ElasticSearchExample/Static/cities.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="6" selection-start-line="5" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ElasticSearchExample/Controllers/CitiesController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="21" column="46" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
+          <folding>
+            <marker date="1565810197633" expanded="false" signature="6:195" ph="..." />
+            <marker date="1565810197633" expanded="true" signature="239:729" ph="{...}" />
+            <marker date="1565810197633" expanded="true" signature="323:727" ph="{...}" />
+            <marker date="1565810197633" expanded="true" signature="459:533" ph="{...}" />
+            <marker date="1565810197633" expanded="true" signature="641:721" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ElasticSearchExample/Application/Abstractions/ICitiesRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+          <folding>
+            <marker date="1565810152917" expanded="false" signature="6:110" ph="..." />
+            <marker date="1565810152917" expanded="true" signature="167:330" ph="{...}" />
+            <marker date="1565810152917" expanded="true" signature="208:328" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ElasticSearchExample/Repositories/CitiesRepository.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9">
-          <caret line="42" column="36" lean-forward="true" selection-start-line="42" selection-start-column="36" selection-end-line="42" selection-end-column="36" />
+        <state relative-caret-position="234">
+          <caret line="18" column="28" lean-forward="true" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
           <folding>
-            <marker date="1565811017747" expanded="true" signature="6:271" ph="..." />
-            <marker date="1565811017747" expanded="true" signature="316:1985" ph="{...}" />
-            <marker date="1565811017747" expanded="true" signature="371:1983" ph="{...}" />
-            <marker date="1565811017747" expanded="true" signature="518:605" ph="{...}" />
-            <marker date="1565811017747" expanded="true" signature="674:1242" ph="{...}" />
-            <marker date="1565811017747" expanded="true" signature="1307:1977" ph="{...}" />
-            <marker date="1565811017747" expanded="true" signature="1650:1967" ph="{...}" />
+            <marker date="1565811160843" expanded="false" signature="6:271" ph="..." />
+            <marker date="1565811160843" expanded="true" signature="316:1985" ph="{...}" />
+            <marker date="1565811160843" expanded="true" signature="371:1983" ph="{...}" />
+            <marker date="1565811160843" expanded="true" signature="518:605" ph="{...}" />
+            <marker date="1565811160843" expanded="true" signature="674:1242" ph="{...}" />
+            <marker date="1565811160843" expanded="true" signature="1307:1977" ph="{...}" />
+            <marker date="1565811160843" expanded="true" signature="1650:1967" ph="{...}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ElasticSearchExample/ElasticSearchExample.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="23" column="36" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
         </state>
       </provider>
     </entry>
